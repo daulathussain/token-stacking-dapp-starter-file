@@ -1,0 +1,23 @@
+const data = [
+  {
+    id: "1",
+    title: "Blog Post 1",
+    description: "Description for Blog Post 1",
+    content:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum faucibus ligula vitae fermentum sollicitudin. Phasellus ut mollis massa.",
+  },
+  {
+    id: "2",
+    title: "Blog Post 2",
+    description: "Description for Blog Post 2",
+    content:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum faucibus ligula vitae fermentum sollicitudin. Phasellus ut mollis massa.",
+  },
+  {
+    id: "3",
+    title: "Blog Post 3",
+    description: "Description for Blog Post 3",
+    content:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum faucibus ligula vitae fermentum sollicitudin. Phasellus ut mollis massa.",
+  },
+];
