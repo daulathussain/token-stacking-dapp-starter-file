@@ -10,7 +10,7 @@ Resource
 
 Final-Code: https://www.theblockchaincoders.com/sourceCode/build-token-stacking-dapp-from-scratch
 
-Starter-file: https://github.com/daulathussain/nfts-api-starter-file
+Starter-file: [https://github.com/daulathussain/nfts-api-starter-file](https://github.com/daulathussain/token-stacking-dapp-starter-file)
 
 Get Pro Course "AI Movie APP": https://bit.ly/AI-Movie-App-Course
 
